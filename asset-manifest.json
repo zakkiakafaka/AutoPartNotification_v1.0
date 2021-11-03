@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AutoPartNotification_v1.0/static/css/main.a283f49c.chunk.css",
+    "main.js": "/AutoPartNotification_v1.0/static/js/main.74d5a1e8.chunk.js",
+    "main.js.map": "/AutoPartNotification_v1.0/static/js/main.74d5a1e8.chunk.js.map",
+    "runtime-main.js": "/AutoPartNotification_v1.0/static/js/runtime-main.ef04d311.js",
+    "runtime-main.js.map": "/AutoPartNotification_v1.0/static/js/runtime-main.ef04d311.js.map",
+    "index.html": "/AutoPartNotification_v1.0/index.html",
+    "static/css/main.a283f49c.chunk.css.map": "/AutoPartNotification_v1.0/static/css/main.a283f49c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef04d311.js",
+    "static/css/main.a283f49c.chunk.css",
+    "static/js/main.74d5a1e8.chunk.js"
+  ]
+}
