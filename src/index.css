@@ -30,15 +30,6 @@ ul {
   list-style: none;
 }
 
-/* input {
-  width: 100%;
-  border: none;
-}
-
-h2 {
-  margin-right: 20px;
-} */
-
 textarea {
   width: 90%;
   height: 410px;
@@ -49,10 +40,6 @@ textarea {
   font-weight: bold;
   text-align: center;
 }
-
-/* input:nth-child(odd) {
-  margin-bottom: 20px;
-}  */
 
 .container {
   width: 1900px;
@@ -80,26 +67,3 @@ textarea {
 .placeholder-list-item:nth-child(odd) {
   margin-bottom: 20px;
 }
-
-/* 
-.gate-list {
-  height: 1000px;
-  margin-top: 20px;
-}
-
-.gate-list-item {
-  display: flex;
-  height: 45px;
-  border: solid;
-}
-
-.gate-list-item:not(:last-of-type) {
-  margin-bottom: 20px;
-}
-
-.input {
-  text-transform: uppercase;
-  font-size: 50px;
-  font-weight: bold;
-  text-align: center;
-} */
